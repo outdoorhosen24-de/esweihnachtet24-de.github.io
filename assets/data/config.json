@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "esweihnachtet24.de",
+    "hostname": "https://www.esweihnachtet24.de/",
+    "email": "esweihnachtet24.desurrealnetworks.io",
+    "organization": "esweihnachtet24.de",
+    "logoText": "Esweihnachtet24.de",
+    "title": "Weihnachten",
+    "subline": "Der Online Shop f\u00fcr Weihnachten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "2342236",
+        "7569536",
+        "6045405",
+        "6045405",
+        "2342236",
+        "2342236"
+    ],
+    "winnerProducts": [
+        "6045405",
+        "7569536",
+        "2342236"
+    ],
+    "featuredCategories": [
+        "Weihnachtsbeleuchtung",
+        "Weihnachtsbeleuchtung",
+        "Au\u00dfen-Beleuchtung",
+        "Weihnachtsdekoration",
+        "Weihnachtsbeleuchtung",
+        "Weihnachtsdekoration"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Weihnachten",
-        "featureText": "Your featured text goes here",
+        "featureText": "Weihnachten ist eine besondere Zeit und die perfekte Gelegenheit, um Freunde und Familie zu treffen. Der Weihnachtsmarkt ist ein Ort, an dem man sich mit Freunden treffen und die Weihnachtsstimmung genie\u00dfen kann. Auf dem Weihnachtsmarkt gibt es viele verschiedene St\u00e4nde, an denen man Weihnachtsgeschenke kaufen kann. Es gibt auch St\u00e4nde, an denen man leckere Weihnachtspl\u00e4tzchen und andere Leckereien kaufen kann.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Weihnachtsgeschenke im Shop",
+            "metaDescription": "Weihnachtsartikel f\u00fcr alle! Dekoration, Geschenke und mehr f\u00fcr die sch\u00f6nste Zeit des Jahres.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Weihnachten in Deutschland",
+                    "text": "Weihnachten ist ein Fest der Freude, des Friedens und der Liebe. Menschen aller Kulturen und Religionen feiern Weihnachten. F\u00fcr viele ist es ein Tag, an dem sie sich mit ihrer Familie und Freunden treffen und gemeinsam essen, trinken und lachen. Andere sehen Weihnachten als einen Tag der Besinnung und des Gebets.\n\nWeihnachten ist in vielen L\u00e4ndern ein Feiertag. In Deutschland ist Weihnachten ein gesetzlicher Feiertag. An Weihnachten feiern die Menschen die Geburt Jesu Christi. Die Weihnachtszeit beginnt am 25. Dezember und endet am 6. Januar.\n\nAn Weihnachten wird in vielen Haushalten ein Weihnachtsbaum aufgestellt. Der Weihnachtsbaum ist ein Symbol f\u00fcr das Fest. Viele Menschen schm\u00fccken den Weihnachtsbaum mit Kerzen, Kugeln und Lametta.\n\nAn Weihnachten werden in Deutschland oft Weihnachtspl\u00e4tzchen gebacken. Die Pl\u00e4tzchen sind kleine, s\u00fc\u00dfe Kuchen, die in verschiedenen Formen und mit verschiedenen Dekorationen hergestellt werden.\n\nAuch Geschenke geh\u00f6ren zu Weihnachten. Viele Menschen schenken sich gegenseitig Geschenke. Die Geschenke werden meistens unter dem Weihnachtsbaum platziert.\n\nWeihnachten ist ein Fest der Freude und des Friedens. Menschen aller Kulturen und Religionen feiern Weihnachten. F\u00fcr viele ist es ein Tag, an dem sie sich mit ihrer Familie und Freunden treffen und gemeinsam essen, tr"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Weihnachts-Shop: Alles f\u00fcr ein sch\u00f6nes Fest!",
+            "metaDescription": "Weihnachts-Shop - Hier findest du alles, was du f\u00fcr Weihnachten brauchst!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Hersteller von Weihnachtsartikeln",
+            "metaDescription": "Finden Sie die besten Weihnachtsartikel hersteller und lassen Sie sich inspirieren! Wir bieten eine gro\u00dfe Auswahl an Weihnachtsprodukten f\u00fcr jeden Geschmack.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT f\u00fcr Weihnachten - die besten Geschenke f\u00fcr jeden!",
+        "defaultMetaDescription": "Weihnachten ist eine Zeit der Freude und des Zusammenseins mit Familie und Freunden. Um diese sch\u00f6ne Zeit noch sch\u00f6ner zu machen, bieten wir Ihnen eine gro\u00dfe Auswahl an Weihnachtsartikeln. St\u00f6bern Sie in unserer Auswahl an $PRODUKTEN von $HERSTELLERN und finden Sie das perfekte Geschenk f\u00fcr Ihre Liebsten.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Weihnachtsgeschenke",
+        "defaultMetaDescription": "$KATEGORIE: Alles rund um Weihnachten - von Geschenken \u00fcber Dekoration bis hin zu Rezepten. Jetzt st\u00f6bern und Weihnachten genie\u00dfen!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Weihnachten ist eine Zeit der Freude und des Zusammenseins. $HERSTELLER ist eine Marke, die diese Freude am Weihnachtsfest mit ihren Produkten teilen m\u00f6chte.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Weihnachten",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Weihnachten Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Weihnachten Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
