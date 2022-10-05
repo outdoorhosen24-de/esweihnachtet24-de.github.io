@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/weihnachtsdekoration", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/teelichter-100er-flatpack-weisz-sonstige-6045405-1.jpg":"\u002Fassets\u002Fimages\u002Fteelichter-100er-flatpack-weisz-sonstige-6045405-1.webp"}}],fetch:{},mutations:void 0});
