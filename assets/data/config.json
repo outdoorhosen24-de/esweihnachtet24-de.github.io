@@ -51,12 +51,15 @@
             "title": "Weihnachtsgeschenke im Shop",
             "metaDescription": "Weihnachtsartikel für alle! Dekoration, Geschenke und mehr für die schönste Zeit des Jahres.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Weihnachten in Deutschland",
-                    "text": "Weihnachten ist ein Fest der Freude, des Friedens und der Liebe. Menschen aller Kulturen und Religionen feiern Weihnachten. Für viele ist es ein Tag, an dem sie sich mit ihrer Familie und Freunden treffen und gemeinsam essen, trinken und lachen. Andere sehen Weihnachten als einen Tag der Besinnung und des Gebets.\n\nWeihnachten ist in vielen Ländern ein Feiertag. In Deutschland ist Weihnachten ein gesetzlicher Feiertag. An Weihnachten feiern die Menschen die Geburt Jesu Christi. Die Weihnachtszeit beginnt am 25. Dezember und endet am 6. Januar.\n\nAn Weihnachten wird in vielen Haushalten ein Weihnachtsbaum aufgestellt. Der Weihnachtsbaum ist ein Symbol für das Fest. Viele Menschen schmücken den Weihnachtsbaum mit Kerzen, Kugeln und Lametta.\n\nAn Weihnachten werden in Deutschland oft Weihnachtsplätzchen gebacken. Die Plätzchen sind kleine, süße Kuchen, die in verschiedenen Formen und mit verschiedenen Dekorationen hergestellt werden.\n\nAuch Geschenke gehören zu Weihnachten. Viele Menschen schenken sich gegenseitig Geschenke. Die Geschenke werden meistens unter dem Weihnachtsbaum platziert.\n\nWeihnachten ist ein Fest der Freude und des Friedens. Menschen aller Kulturen und Religionen feiern Weihnachten. Für viele ist es ein Tag, an dem sie sich mit ihrer Familie und Freunden treffen und gemeinsam essen, tr"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Weihnachten in Deutschland",
+                        "text": "Weihnachten ist ein Fest der Freude, des Friedens und der Liebe. Menschen aller Kulturen und Religionen feiern Weihnachten. Für viele ist es ein Tag, an dem sie sich mit ihrer Familie und Freunden treffen und gemeinsam essen, trinken und lachen. Andere sehen Weihnachten als einen Tag der Besinnung und des Gebets.\n\nWeihnachten ist in vielen Ländern ein Feiertag. In Deutschland ist Weihnachten ein gesetzlicher Feiertag. An Weihnachten feiern die Menschen die Geburt Jesu Christi. Die Weihnachtszeit beginnt am 25. Dezember und endet am 6. Januar.\n\nAn Weihnachten wird in vielen Haushalten ein Weihnachtsbaum aufgestellt. Der Weihnachtsbaum ist ein Symbol für das Fest. Viele Menschen schmücken den Weihnachtsbaum mit Kerzen, Kugeln und Lametta.\n\nAn Weihnachten werden in Deutschland oft Weihnachtsplätzchen gebacken. Die Plätzchen sind kleine, süße Kuchen, die in verschiedenen Formen und mit verschiedenen Dekorationen hergestellt werden.\n\nAuch Geschenke gehören zu Weihnachten. Viele Menschen schenken sich gegenseitig Geschenke. Die Geschenke werden meistens unter dem Weihnachtsbaum platziert.\n\nWeihnachten ist ein Fest der Freude und des Friedens. Menschen aller Kulturen und Religionen feiern Weihnachten. Für viele ist es ein Tag, an dem sie sich mit ihrer Familie und Freunden treffen und gemeinsam essen, tr"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Weihnachts-Shop: Alles für ein schönes Fest!",
