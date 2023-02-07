@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "esweihnachtet24.de",
     "hostname": "https://www.esweihnachtet24.de/",
     "email": "esweihnachtet24.de@surrealnetworks.io",
     "organization": "esweihnachtet24.de",
     "logoText": "Esweihnachtet24.de",
-    "title": "Weihnachten",
-    "subline": "Der Online Shop für Weihnachten",
+    "title": "Weihnachtsartikel",
+    "subline": "Der Online Shop für Weihnachtsartikel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Weihnachten",
-        "featureText": "Weihnachten ist eine besondere Zeit und die perfekte Gelegenheit, um Freunde und Familie zu treffen. Der Weihnachtsmarkt ist ein Ort, an dem man sich mit Freunden treffen und die Weihnachtsstimmung genießen kann. Auf dem Weihnachtsmarkt gibt es viele verschiedene Stände, an denen man Weihnachtsgeschenke kaufen kann. Es gibt auch Stände, an denen man leckere Weihnachtsplätzchen und andere Leckereien kaufen kann.",
+        "featureText": "Die Feiertage sind eine magische Zeit des Jahres, die von Wärme, Freude und guter Laune geprägt ist. Und wie könnte man sich besser auf diese Zeit einstimmen als mit unserer wunderschönen Kollektion an Weihnachtsdekoration und -beleuchtung. Unsere große Auswahl an Produkten, von Weihnachtsbeleuchtung für drinnen und draußen bis hin zu einzigartigem und stilvollem Weihnachtsschmuck, wird Ihnen helfen, die perfekte Weihnachtsatmosphäre für Sie und Ihre Lieben zu schaffen. Ganz gleich, ob Sie eine gemütliche und einladende Atmosphäre in Ihrem Haus schaffen oder Ihren Garten in ein Winterwunderland verwandeln möchten, wir haben alles, was Sie brauchen. Unsere Lichterketten für den Außenbereich verleihen jedem Außenbereich einen Hauch von Charme, während unsere Weihnachtsbeleuchtung für den Innenbereich ein warmes und gemütliches Licht in Ihr Wohnzimmer, Esszimmer oder Schlafzimmer bringt.",
         "index": {
-            "title": "Weihnachtsgeschenke im Shop",
-            "metaDescription": "Weihnachtsartikel für alle! Dekoration, Geschenke und mehr für die schönste Zeit des Jahres.",
+            "title": "Weihnachtsdekoration & Lichterketten",
+            "metaDescription": "Von Lichtern für den Innenbereich bis hin zu Lichterketten für den Außenbereich finden Sie alles, was Sie für eine festliche Weihnachtszeit benötigen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,8 +62,8 @@
             }
         },
         "shop": {
-            "title": "Weihnachts-Shop: Alles für ein schönes Fest!",
-            "metaDescription": "Weihnachts-Shop - Hier findest du alles, was du für Weihnachten brauchst!",
+            "title": "Weihnachtsdekoration & Lichterketten Shop",
+            "metaDescription": "Entdecken Sie die perfekte Weihnachtsdekoration und Beleuchtung für Ihr Zuhause. Kaufen Sie jetzt ein und finden Sie Innen- und Außenbeleuchtung uvm.",
             "robots": "index, follow"
         },
         "hersteller": {
@@ -73,8 +73,8 @@
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT für Weihnachten - die besten Geschenke für jeden!",
-        "defaultMetaDescription": "Weihnachten ist eine Zeit der Freude und des Zusammenseins mit Familie und Freunden. Um diese schöne Zeit noch schöner zu machen, bieten wir Ihnen eine große Auswahl an Weihnachtsartikeln. Stöbern Sie in unserer Auswahl an $PRODUKTEN von $HERSTELLERN und finden Sie das perfekte Geschenk für Ihre Liebsten.",
+        "defaultTitle": "$PRODUKT | Shop",
+        "defaultMetaDescription": "Bringen Sie einen Hauch von Weihnachtszauber in Ihr Zuhause mit $PRODUKT aus der Kategorie $KATEGORIE vom Hersteller $HERSTELLER.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Weihnachtsgeschenke",
-        "defaultMetaDescription": "$KATEGORIE: Alles rund um Weihnachten - von Geschenken über Dekoration bis hin zu Rezepten. Jetzt stöbern und Weihnachten genießen!",
+        "defaultTitle": "$KATEGORIE günstig shoppen",
+        "defaultMetaDescription": "$KATEGORIE: Alles rund um Weihnachten - von Geschenken über Dekoration bis hin zur Beleuchtung. Jetzt stöbern und Weihnachten genießen!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Weihnachten ist eine Zeit der Freude und des Zusammenseins. $HERSTELLER ist eine Marke, die diese Freude am Weihnachtsfest mit ihren Produkten teilen möchte.",
+        "defaultTitle": "$HERSTELLER | Weihnachtsartikel günstig kaufen",
+        "defaultMetaDescription": "Finden Sie die perfekte Weihnachtsdekoration und -beleuchtung der Top-Marke $HERSTELLER bei esweihnachtet24.de. Günstige Preise, schnelle Lieferung.",
         "defaultRobots": "index, follow",
         "brands": [
             {
