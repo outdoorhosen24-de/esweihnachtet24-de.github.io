@@ -1,180 +1,183 @@
 {
-    "configIsReady": true,
-    "domain": "esweihnachtet24.de",
-    "hostname": "https://www.esweihnachtet24.de/",
-    "email": "esweihnachtet24.de@surrealnetworks.io",
-    "organization": "esweihnachtet24.de",
-    "logoText": "Esweihnachtet24.de",
-    "title": "Weihnachtsartikel",
-    "subline": "Der Online Shop für Weihnachtsartikel",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "2342236",
-        "7569536",
-        "6045405",
-        "6045405",
-        "2342236",
-        "2342236"
-    ],
-    "winnerProducts": [
-        "6045405",
-        "7569536",
-        "2342236"
-    ],
-    "featuredCategories": [
-        "Weihnachtsbeleuchtung",
-        "Weihnachtsbeleuchtung",
-        "Außen-Beleuchtung",
-        "Weihnachtsdekoration",
-        "Weihnachtsbeleuchtung",
-        "Weihnachtsdekoration"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Weihnachten",
-        "featureText": "Die Feiertage sind eine magische Zeit des Jahres, die von Wärme, Freude und guter Laune geprägt ist. Und wie könnte man sich besser auf diese Zeit einstimmen als mit unserer wunderschönen Kollektion an Weihnachtsdekoration und -beleuchtung. Unsere große Auswahl an Produkten, von Weihnachtsbeleuchtung für drinnen und draußen bis hin zu einzigartigem und stilvollem Weihnachtsschmuck, wird Ihnen helfen, die perfekte Weihnachtsatmosphäre für Sie und Ihre Lieben zu schaffen. Ganz gleich, ob Sie eine gemütliche und einladende Atmosphäre in Ihrem Haus schaffen oder Ihren Garten in ein Winterwunderland verwandeln möchten, wir haben alles, was Sie brauchen. Unsere Lichterketten für den Außenbereich verleihen jedem Außenbereich einen Hauch von Charme, während unsere Weihnachtsbeleuchtung für den Innenbereich ein warmes und gemütliches Licht in Ihr Wohnzimmer, Esszimmer oder Schlafzimmer bringt.",
-        "index": {
-            "title": "Weihnachtsdekoration & Lichterketten",
-            "metaDescription": "Von Lichtern für den Innenbereich bis hin zu Lichterketten für den Außenbereich finden Sie alles, was Sie für eine festliche Weihnachtszeit benötigen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Herzlich Willkommen bei esweihnachtet24.de",
-                        "text": "Herzlich Willkommen bei esweihnachtet24.de, Ihrem Online-Shop für alles rund um Weihnachten. Hier finden Sie eine breite Auswahl an Weihnachtsbeleuchtung, Außen-Beleuchtung, Außen-Lichterketten und Weihnachtsdekorationen. Vom klassischen Tannenbaum-Schmuck bis hin zu ausgefallenen Weihnachtsdekorationen für Außen und Innen, bei uns werden Sie fündig. Wir bieten Ihnen hochwertige Produkte zu fairen Preisen, damit Sie Ihr Zuhause in besinnlicher Weihnachtsstimmung erstrahlen lassen können. Stöbern Sie durch unser Sortiment und lassen Sie sich von der Vielfalt an Weihnachtsdekorationen inspirieren. Bei Fragen stehen wir Ihnen gerne zur Verfügung. Frohe Weihnachten wünscht Ihnen das Team von esweihnachtet24.de."
-                    },
-                    {
-                        "title": "Weihnachtsbeleuchtung",
-                        "text": "Erleuchten Sie Ihr Zuhause mit unserer großen Auswahl an <a href=\"/kategorie/weihnachtsbeleuchtung/\" title=\"Weihnachtsbeleuchtung\">Weihnachtsbeleuchtung</a>. Von funkelnden Lichterketten bis hin zu einzigartigen Weihnachtsdekorationen finden Sie bei uns alles, was Sie für ein festliches Zuhause benötigen. Schaffen Sie eine magische Atmosphäre und feiern Sie Weihnachten in einer wunderbaren Umgebung."
-                    },
-                    {
-                        "title": "Außen-Beleuchtung",
-                        "text": "Bringen Sie Ihren Garten oder Ihre Terrasse in Weihnachtsstimmung mit unserer <a href=\"/kategorie/aussen-beleuchtung/\" title=\"Aussen-Beleuchtung\">Aussen-Beleuchtung</a>. Wählen Sie aus einer Vielzahl von Lichterketten, Leuchten und Weihnachtsdekorationen für den Außenbereich. Egal, ob Sie eine traditionelle oder moderne Atmosphäre schaffen möchten, wir haben die perfekte Außen-Beleuchtung für Sie."
-                    },
-                    {
-                        "title": "Außen-Lichterketten",
-                        "text": "Verwandeln Sie Ihren Garten oder Ihre Terrasse in eine Winterwunderland mit unseren <a href=\"/kategorie/aussen-lichterketten/\" title=\"Aussen-Lichterketten\">Aussen-Lichterketten</a>. Wählen Sie aus einer Vielzahl von Farben und Größen, um eine festliche Atmosphäre zu schaffen. Ob es um die Umrandung Ihres Hauses, Ihren Baum oder Ihre Büsche geht, mit unseren Außen-Lichterketten wird es ein unvergessliches Weihnachtsfest."
-                    },
-                    {
-                        "title": "Weihnachtsdekoration Online Shop - esweihnachtet24.de",
-                        "text": "Erleben Sie den Zauber von Weihnachten mit der perfekten Weihnachtsdekoration von esweihnachtet24.de. Unser Online-Shop bietet eine große Auswahl an hochwertigen und stilvollen Weihnachtsdekorationen, die Ihnen helfen, Ihr Zuhause in eine festliche Winterlandschaft zu verwandeln. Von Tannenbäumen und Lichterketten bis hin zu Weihnachtskugeln und Weihnachtsfiguren – bei uns finden Sie alles, was Sie für eine gelungene Weihnachtsdekoration benötigen. Stöbern Sie jetzt durch unsere Produkte und bereiten Sie sich auf die schönste Zeit des Jahres vor!"
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Weihnachtsdekoration & Lichterketten Shop",
-            "metaDescription": "Entdecken Sie die perfekte Weihnachtsdekoration und Beleuchtung für Ihr Zuhause. Kaufen Sie jetzt ein und finden Sie Innen- und Außenbeleuchtung uvm.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hersteller von Weihnachtsartikeln",
-            "metaDescription": "Finden Sie die besten Weihnachtsartikel hersteller und lassen Sie sich inspirieren! Wir bieten eine große Auswahl an Weihnachtsprodukten für jeden Geschmack.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Shop",
-        "defaultMetaDescription": "Bringen Sie einen Hauch von Weihnachtszauber in Ihr Zuhause mit $PRODUKT aus der Kategorie $KATEGORIE vom Hersteller $HERSTELLER.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "esweihnachtet24.de",
+  "hostname": "https://www.esweihnachtet24.de/",
+  "email": "esweihnachtet24.de@surrealnetworks.io",
+  "organization": "esweihnachtet24.de",
+  "logoText": "Esweihnachtet24.de",
+  "title": "Weihnachtsartikel",
+  "subline": "Der Online Shop f\u00fcr Weihnachtsartikel",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "2342236",
+    "7569536",
+    "6045405",
+    "6045405",
+    "2342236",
+    "2342236"
+  ],
+  "winnerProducts": [
+    "6045405",
+    "7569536",
+    "2342236"
+  ],
+  "featuredCategories": [
+    "Weihnachtsbeleuchtung",
+    "Weihnachtsbeleuchtung",
+    "Au\u00dfen-Beleuchtung",
+    "Weihnachtsdekoration",
+    "Weihnachtsbeleuchtung",
+    "Weihnachtsdekoration"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Weihnachten",
+    "featureText": "Die Feiertage sind eine magische Zeit des Jahres, die von W\u00e4rme, Freude und guter Laune gepr\u00e4gt ist. Und wie k\u00f6nnte man sich besser auf diese Zeit einstimmen als mit unserer wundersch\u00f6nen Kollektion an Weihnachtsdekoration und -beleuchtung. Unsere gro\u00dfe Auswahl an Produkten, von Weihnachtsbeleuchtung f\u00fcr drinnen und drau\u00dfen bis hin zu einzigartigem und stilvollem Weihnachtsschmuck, wird Ihnen helfen, die perfekte Weihnachtsatmosph\u00e4re f\u00fcr Sie und Ihre Lieben zu schaffen. Ganz gleich, ob Sie eine gem\u00fctliche und einladende Atmosph\u00e4re in Ihrem Haus schaffen oder Ihren Garten in ein Winterwunderland verwandeln m\u00f6chten, wir haben alles, was Sie brauchen. Unsere Lichterketten f\u00fcr den Au\u00dfenbereich verleihen jedem Au\u00dfenbereich einen Hauch von Charme, w\u00e4hrend unsere Weihnachtsbeleuchtung f\u00fcr den Innenbereich ein warmes und gem\u00fctliches Licht in Ihr Wohnzimmer, Esszimmer oder Schlafzimmer bringt.",
+    "index": {
+      "title": "Weihnachtsdekoration & Lichterketten",
+      "metaDescription": "Von Lichtern f\u00fcr den Innenbereich bis hin zu Lichterketten f\u00fcr den Au\u00dfenbereich finden Sie alles, was Sie f\u00fcr eine festliche Weihnachtszeit ben\u00f6tigen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Herzlich Willkommen bei esweihnachtet24.de",
+            "text": "Herzlich Willkommen bei esweihnachtet24.de, Ihrem Online-Shop f\u00fcr alles rund um Weihnachten. Hier finden Sie eine breite Auswahl an Weihnachtsbeleuchtung, Au\u00dfen-Beleuchtung, Au\u00dfen-Lichterketten und Weihnachtsdekorationen. Vom klassischen Tannenbaum-Schmuck bis hin zu ausgefallenen Weihnachtsdekorationen f\u00fcr Au\u00dfen und Innen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen hochwertige Produkte zu fairen Preisen, damit Sie Ihr Zuhause in besinnlicher Weihnachtsstimmung erstrahlen lassen k\u00f6nnen. St\u00f6bern Sie durch unser Sortiment und lassen Sie sich von der Vielfalt an Weihnachtsdekorationen inspirieren. Bei Fragen stehen wir Ihnen gerne zur Verf\u00fcgung. Frohe Weihnachten w\u00fcnscht Ihnen das Team von esweihnachtet24.de."
+          },
+          {
+            "title": "Weihnachtsbeleuchtung",
+            "text": "Erleuchten Sie Ihr Zuhause mit unserer gro\u00dfen Auswahl an <a href=\"/kategorie/weihnachtsbeleuchtung/\" title=\"Weihnachtsbeleuchtung\">Weihnachtsbeleuchtung</a>. Von funkelnden Lichterketten bis hin zu einzigartigen Weihnachtsdekorationen finden Sie bei uns alles, was Sie f\u00fcr ein festliches Zuhause ben\u00f6tigen. Schaffen Sie eine magische Atmosph\u00e4re und feiern Sie Weihnachten in einer wunderbaren Umgebung."
+          },
+          {
+            "title": "Au\u00dfen-Beleuchtung",
+            "text": "Bringen Sie Ihren Garten oder Ihre Terrasse in Weihnachtsstimmung mit unserer <a href=\"/kategorie/aussen-beleuchtung/\" title=\"Aussen-Beleuchtung\">Aussen-Beleuchtung</a>. W\u00e4hlen Sie aus einer Vielzahl von Lichterketten, Leuchten und Weihnachtsdekorationen f\u00fcr den Au\u00dfenbereich. Egal, ob Sie eine traditionelle oder moderne Atmosph\u00e4re schaffen m\u00f6chten, wir haben die perfekte Au\u00dfen-Beleuchtung f\u00fcr Sie."
+          },
+          {
+            "title": "Au\u00dfen-Lichterketten",
+            "text": "Verwandeln Sie Ihren Garten oder Ihre Terrasse in eine Winterwunderland mit unseren <a href=\"/kategorie/aussen-lichterketten/\" title=\"Aussen-Lichterketten\">Aussen-Lichterketten</a>. W\u00e4hlen Sie aus einer Vielzahl von Farben und Gr\u00f6\u00dfen, um eine festliche Atmosph\u00e4re zu schaffen. Ob es um die Umrandung Ihres Hauses, Ihren Baum oder Ihre B\u00fcsche geht, mit unseren Au\u00dfen-Lichterketten wird es ein unvergessliches Weihnachtsfest."
+          },
+          {
+            "title": "Weihnachtsdekoration Online Shop - esweihnachtet24.de",
+            "text": "Erleben Sie den Zauber von Weihnachten mit der perfekten Weihnachtsdekoration von esweihnachtet24.de. Unser Online-Shop bietet eine gro\u00dfe Auswahl an hochwertigen und stilvollen Weihnachtsdekorationen, die Ihnen helfen, Ihr Zuhause in eine festliche Winterlandschaft zu verwandeln. Von Tannenb\u00e4umen und Lichterketten bis hin zu Weihnachtskugeln und Weihnachtsfiguren \u2013 bei uns finden Sie alles, was Sie f\u00fcr eine gelungene Weihnachtsdekoration ben\u00f6tigen. St\u00f6bern Sie jetzt durch unsere Produkte und bereiten Sie sich auf die sch\u00f6nste Zeit des Jahres vor!"
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE günstig shoppen",
-        "defaultMetaDescription": "$KATEGORIE: Alles rund um Weihnachten - von Geschenken über Dekoration bis hin zur Beleuchtung. Jetzt stöbern und Weihnachten genießen!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Weihnachtsdekoration & Lichterketten Shop",
+      "metaDescription": "Entdecken Sie die perfekte Weihnachtsdekoration und Beleuchtung f\u00fcr Ihr Zuhause. Kaufen Sie jetzt ein und finden Sie Innen- und Au\u00dfenbeleuchtung uvm.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Weihnachtsartikel günstig kaufen",
-        "defaultMetaDescription": "Finden Sie die perfekte Weihnachtsdekoration und -beleuchtung der Top-Marke $HERSTELLER bei esweihnachtet24.de. Günstige Preise, schnelle Lieferung.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Weihnachten",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Weihnachten Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Weihnachten Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hersteller von Weihnachtsartikeln",
+      "metaDescription": "Finden Sie die besten Weihnachtsartikel hersteller und lassen Sie sich inspirieren! Wir bieten eine gro\u00dfe Auswahl an Weihnachtsprodukten f\u00fcr jeden Geschmack.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Shop",
+    "defaultMetaDescription": "Bringen Sie einen Hauch von Weihnachtszauber in Ihr Zuhause mit $PRODUKT aus der Kategorie $KATEGORIE vom Hersteller $HERSTELLER.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE g\u00fcnstig shoppen",
+    "defaultMetaDescription": "$KATEGORIE: Alles rund um Weihnachten - von Geschenken \u00fcber Dekoration bis hin zur Beleuchtung. Jetzt st\u00f6bern und Weihnachten genie\u00dfen!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Weihnachtsartikel g\u00fcnstig kaufen",
+    "defaultMetaDescription": "Finden Sie die perfekte Weihnachtsdekoration und -beleuchtung der Top-Marke $HERSTELLER bei esweihnachtet24.de. G\u00fcnstige Preise, schnelle Lieferung.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Weihnachten",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Weihnachten Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Weihnachten Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
